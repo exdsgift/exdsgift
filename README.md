@@ -10,4 +10,4 @@ I love exploring diverse datasets and building creative projects around them, of
 ## Get in touch ☕️:
 
 - [LinkedIn](https://www.linkedin.com/in/gabrieledurante/)
-- [HUggingFace](https://twitter.com/viradiya_sagar)
+- [HuggingFace](https://twitter.com/viradiya_sagar)
