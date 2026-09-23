@@ -28,7 +28,7 @@ My main tech stack and tools are:
 
 I've got a bunch of research projects, but my favorites are [**NerGuard**](https://github.com/exdsgift/NerGuard) (my Master's Thesis) and [**tensionr**](https://exdsgift.github.io/tensionr/) (an open-source intelligence terminal).
 
-## Get in touch
+### Get in touch
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrieledurante/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
