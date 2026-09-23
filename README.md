@@ -1,7 +1,5 @@
 ### Hey there! 👋
 
-## About me
-
 I'm **Gabriele**, an AI Research Engineer based in Milan, Italy, and a former EU Vulcanus in Japan Fellow. 
 
 I love exploring diverse datasets and building creative projects around them, often sourcing data from public APIs. If a complex data problem comes my way, chances are I'll architect a solution and ship it. 
